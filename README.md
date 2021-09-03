@@ -1,6 +1,6 @@
 # Tim Mouskhelichvili 😎
 
-Hello 👋! I am Tim Mouskhelichvili, a Full-Stack Web Developer with a passion for helping my clients *transform their businesses by building them amazing web projects.*
+Hello 👋! I am Tim Mouskhelichvili, a Full-Stack Web Developer & Consultant with a passion for helping my clients *transform their businesses by building them amazing web projects.*
 
 I offer a vast collection of services, from web development to consulting on an existing project and coaching an existing team. 
 
