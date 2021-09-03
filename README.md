@@ -2,7 +2,9 @@
 
 Hello 👋! I am Tim Mouskhelichvili, a Full-Stack Web Developer with a passion for helping my clients *transform their businesses by building them amazing web projects.*
 
-I offer a vast collection of services, from web development to consulting on an existing project and coaching an existing team. Having been in the Web Development industry for over 5 years and successfully completed a multitude of web projects, I will provide you top-notch services and give you advices that will save you a lot of time and money. 
+I offer a vast collection of services, from web development to consulting on an existing project and coaching an existing team. 
+
+Having been in the Web Development industry for over 5 years and successfully completed a multitude of web projects, I will provide you top-notch services and give you advices that will save you a lot of time and money. 
 
 I will deliver you top results on time and at the **most affordable price** 💸 compared to the competition.
 
