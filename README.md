@@ -1,4 +1,4 @@
-# Tim Mouskhelichvili 😎
+# Tim Mouskhelichvili (Software Engineer & Consultant 😎)
 
 Hello 👋! I am Tim Mouskhelichvili, a Full-Stack Web Developer & Consultant with a passion for helping my clients *transform their businesses by building them amazing web projects.*
 
