@@ -11,7 +11,7 @@ I am Tim Mouskhelichvili, a Freelance Developer & Consultant with a passion for 
 * You Will Get An Experienced Developer That Will Save You Time And Money 💸
 * You Will Get An App Written With the Latest Technologies 😎
 
-## HOW CAN YOU GET IT:
+## HOW CAN YOU GET IT?
 * Book a free ☎️ @ https://calendly.com/aftrconsulting/30min-free-consultation
 * Message me on LinkedIn or on 📧👉 t.mouskhelichvili@protonmail.com
 * Visit my website for more information: https://timmouskhelichvili.com
