@@ -1,4 +1,4 @@
-# Tim Mouskhelichvili (Software Engineer & Consultant)
+# Tim Mouskhelichvili (Freelance developer & Consultant)
 
 Do you have an amazing idea for a Web or Mobile application, but lack the time or knowledge to actually create it? 
 
