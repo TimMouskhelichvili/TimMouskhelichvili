@@ -1,6 +1,6 @@
 # Tim Mouskhelichvili (Freelance developer & Consultant)
 
-Do you have an amazing idea for a Web or Mobile application, but lack the time or knowledge to actually create it? 
+Do you have an amazing idea for a Web Application, but lack the time or knowledge to actually create it? 
 
 Developing an application is very hard, and leaving it in bad hands can be disastrous. 
 
