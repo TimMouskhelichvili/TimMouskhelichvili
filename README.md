@@ -1,4 +1,4 @@
-# Tim Mouskhelichvili (Freelance developer & Consultant)
+# Tim Mouskhelichvili (Freelance Developer & Consultant)
 
 Do you have an amazing idea for a Web Application, but lack the time or knowledge to actually create it? 
 
