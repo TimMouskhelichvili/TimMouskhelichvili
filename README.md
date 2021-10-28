@@ -18,6 +18,7 @@ I specialize in React, Node.js & TypeScript application development.
 I have over 6 years of experience in application development.
 
 My expertise will save you a lot of time and money 💸
+
 I am on a mission to help my clients transform their businesses by building amazing applications.
 
 I will help you transform yours;)
