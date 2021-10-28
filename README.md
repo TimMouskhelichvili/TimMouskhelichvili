@@ -11,8 +11,8 @@ I am Tim Mouskhelichvili, a Freelance Developer & Consultant from Montreal, Cana
 
 I specialize in React, Node.js & TypeScript application development.
 
-![React](https://img.shields.io/badge/-React-/?style=flat-square&logo=react&logoColor=FFF&color=purple)
-![Node.js](https://img.shields.io/badge/-Node.js-/?style=flat-square&logo=node.js&logoColor=FFF&color=2391e6)
+![React](https://img.shields.io/badge/-React-/?style=flat-square&logo=react&logoColor=FFF&color=blue)
+![Node.js](https://img.shields.io/badge/-Node.js-/?style=flat-square&logo=node.js&logoColor=FFF&color=green)
 ![TypeScript](https://img.shields.io/badge/-Typescript-/?style=flat-square&logo=javascript&logoColor=FFF&color=2f74c0)
 
 I have over 6 years of experience in application development.
