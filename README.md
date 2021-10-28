@@ -23,15 +23,11 @@ I am on a mission to help my clients transform their businesses by building amaz
 I will help you transform yours;)
 
 ## WHY ME?
-✅ You Will Get Top Results On-Time
-
-✅ You Will Get A Quote & Prototype in 24h or less
-
-✅ You Will Get An Experienced Developer That Will Save You Time And Money
-
-✅ You Will Get An App Written With the Latest Technologies
-
-✅ You Will Get 2 weeks of FREE support
+* ✅ You Will Get Top Results On-Time
+* ✅ You Will Get A Quote & Prototype in 24h or less
+* ✅ You Will Get An Experienced Developer That Will Save You Time And Money
+* ✅ You Will Get An App Written With the Latest Technologies
+* ✅ You Will Get 2 weeks of FREE support
 
 ## HOW CAN YOU GET IT?
 * Book a free ☎️ @ https://calendly.com/aftrconsulting/30min-free-consultation
