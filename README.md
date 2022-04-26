@@ -7,7 +7,7 @@ Developing an application is very hard, and leaving it in bad hands can be disas
 That’s why you will need an experienced professional that will do everything from design to launch and will ensure the 🤑 best product quality for you.
 
 ## WHO AM I?
-I am Tim Mouskhelichvili, a Freelance Developer & Consultant from Montreal, Canada 🇨🇦
+I am [Tim Mouskhelichvili](https://timmousk.com), a Freelance Developer & Consultant from Montreal, Canada 🇨🇦
 
 I specialize in React, Node.js & TypeScript application development.
 
@@ -33,7 +33,7 @@ I will help you transform yours;)
 ## HOW CAN YOU GET IT?
 * Book a free ☎️ @ https://calendly.com/aftrconsulting/30min-free-consultation
 * Message me on LinkedIn or on 📧👉 t.mouskhelichvili@protonmail.com
-* Visit my website for more information: https://timmouskhelichvili.com
+* Visit my website for more information: https://timmousk.com
 
 ## SOME TECHNOLOGIES THAT I AM GOOD AT:
 JavaScript | TypeScript | React | npm | Webpack | ESLint | Jest | HTML/CSS | Sass | GraphQL | Babel | Redux | styled-components | Cypress | React Native | Node.js | PHP | Next.js | Redis | WordPress | Docker | Kubernetes | nginx | MySQL | CI/CD
