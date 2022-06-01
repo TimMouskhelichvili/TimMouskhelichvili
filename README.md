@@ -24,7 +24,7 @@ I am on a mission to help my clients transform their businesses by building amaz
 I will help you transform yours;)
 
 ## WHY ME?
-* ✅ You will get top results on-time.
+* ✅ You will get top results on time.
 * ✅ You will get a quote & prototype in 24h or less.
 * ✅ You will get an experienced developer that will save you time and money.
 * ✅ You will get an app written with the latest technologies.
@@ -32,7 +32,7 @@ I will help you transform yours;)
 
 ## HOW CAN YOU GET IT?
 * Book a free ☎️ @ https://calendly.com/aftrconsulting/30min-free-consultation
-* Email me on 📧👉 info@timmousk.com
+* Email me at 📧👉 info@timmousk.com
 * Visit my website for more information: https://timmousk.com
 
 ## SOME TECHNOLOGIES THAT I AM GOOD AT:
