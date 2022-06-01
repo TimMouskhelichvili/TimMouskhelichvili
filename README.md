@@ -1,10 +1,10 @@
 # 👉 I Help Businesses by Building Web Applications using React & Node.js.
 
-Do you have a fantastic idea for a Web Application but lack the time or knowledge to create it?
+Do you have a fantastic idea for a **web application** but lack the time or knowledge to create it?
 
-Developing an application is very hard, and leaving it in the wrong hands can be disastrous. 
+Developing an application is very hard, and leaving it in the wrong hands can be disastrous.
 
-You will need an experienced professional who will do everything from design to launch and ensure the best product quality for you.
+That’s why you need an experienced professional who will do everything from design to launch and ensure the best product quality for you.
 
 ## WHO AM I?
 I am [Tim Mouskhelichvili](https://timmousk.com), a Freelance Developer & Consultant from Montreal, Canada 🇨🇦
@@ -24,15 +24,15 @@ I am on a mission to help my clients transform their businesses by building amaz
 I will help you transform yours;)
 
 ## WHY ME?
-* ✅ You Will Get Top Results On-Time
-* ✅ You Will Get A Quote & Prototype in 24h or less
-* ✅ You Will Get An Experienced Developer That Will Save You Time And Money
-* ✅ You Will Get An App Written With the Latest Technologies
-* ✅ You Will Get two weeks of FREE support
+* ✅ You will get top results on-time.
+* ✅ You will get a quote & prototype in 24h or less.
+* ✅ You will get an experienced developer that will save you time and money.
+* ✅ You will get an app written with the latest technologies.
+* ✅ You will get two weeks of FREE support.
 
 ## HOW CAN YOU GET IT?
 * Book a free ☎️ @ https://calendly.com/aftrconsulting/30min-free-consultation
-* Message me on LinkedIn or on 📧👉 info@timmousk.com
+* Email me on 📧👉 info@timmousk.com
 * Visit my website for more information: https://timmousk.com
 
 ## SOME TECHNOLOGIES THAT I AM GOOD AT:
