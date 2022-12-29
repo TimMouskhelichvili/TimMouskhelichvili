@@ -31,7 +31,7 @@ I will help you transform yours;)
 * ✅ You will get two weeks of FREE support.
 
 ## HOW CAN YOU GET IT?
-* Book a free ☎️ @ https://calendly.com/aftrconsulting/30min-free-consultation
+* Book a free ☎️ @ https://calendly.com/timmousk/30min-free-consultation
 * Email me at 📧👉 info@timmousk.com
 * Visit my website for more information: https://timmousk.com
 
