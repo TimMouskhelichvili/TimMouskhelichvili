@@ -1,6 +1,6 @@
 Hello 👋!
 
-I am Tim Mouskhelichvili, a Developer & Consultant from Montreal, Canada 🇨🇦
+I am Tim Mouskhelichvili, a Developer & Consultant from Montreal, Canada 🇨🇦.
 
 I specialize in React, Node.js & TypeScript application development.
 
@@ -11,7 +11,6 @@ I specialize in React, Node.js & TypeScript application development.
 I have over seven years of experience in application development.
 
 ## HOW TO CONTACT ME?
-* Book a free ☎️ @ https://calendly.com/timmousk/30min-free-consultation
 * Email me at 📧👉 info@timmousk.com
 * Visit my website for more information: https://timmousk.com
 * Porfolio: https://timmousk.com/portfolio
