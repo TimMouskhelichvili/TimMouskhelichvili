@@ -1,5 +1,3 @@
-# Full-Stack Developer | JavaScript | TypeScript | React
-
 Senior software engineer with 7+ years of experience designing and developing innovative web applications and SaaS platforms using modern web technologies. I am a hands-on engineer who brings customer-focused software solutions from initial concept to deployment with a focus on user experience, performance, scalability, and accessibility.
 
 ## WHO AM I?
@@ -17,6 +15,4 @@ I have over seven years of experience in application development.
 * Book a free ☎️ @ https://calendly.com/timmousk/30min-free-consultation
 * Email me at 📧👉 info@timmousk.com
 * Visit my website for more information: https://timmousk.com
-
-## SOME TECHNOLOGIES THAT I AM GOOD AT:
-JavaScript | TypeScript | React | npm | Webpack | ESLint | Jest | HTML/CSS | Sass | GraphQL | Babel | Redux | styled-components | Cypress | React Native | Node.js | PHP | Next.js | Redis | WordPress | Docker | Kubernetes | nginx | MySQL | CI/CD
+* Porfolio: https://timmousk.com/portfolio
