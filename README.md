@@ -1,6 +1,6 @@
 Hello 👋!
 
-I am Tim Mouskhelichvili, a Developer & Consultant from Montreal, Canada 🇨🇦.
+I am Tim Mouskhelichvili, a Full-Stack Developer from Montreal, Canada 🇨🇦.
 
 I specialize in React, Node.js & TypeScript application development.
 
