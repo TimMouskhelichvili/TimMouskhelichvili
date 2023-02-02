@@ -1,13 +1,9 @@
-# 👉 I Help Businesses by Building Web Applications using React & Node.js.
+# Full-Stack Developer | JavaScript | TypeScript | React
 
-Do you have a fantastic idea for a **web application** but lack the time or knowledge to create it?
-
-Developing an application is very hard, and leaving it in the wrong hands can be disastrous.
-
-That’s why you need an experienced professional who will do everything from design to launch and ensure the best product quality for you.
+Senior software engineer with 7+ years of experience designing and developing innovative web applications and SaaS platforms using modern web technologies. I am a hands-on engineer who brings customer-focused software solutions from initial concept to deployment with a focus on user experience, performance, scalability, and accessibility.
 
 ## WHO AM I?
-I am [Tim Mouskhelichvili](https://timmousk.com), a Freelance Developer & Consultant from Montreal, Canada 🇨🇦
+I am [Tim Mouskhelichvili](https://timmousk.com), a Developer & Consultant from Montreal, Canada 🇨🇦
 
 I specialize in React, Node.js & TypeScript application development.
 
@@ -15,22 +11,9 @@ I specialize in React, Node.js & TypeScript application development.
 ![Node.js](https://img.shields.io/badge/-Node.js-/?style=flat-square&logo=node.js&logoColor=FFF&color=green)
 ![TypeScript](https://img.shields.io/badge/-Typescript-/?style=flat-square&logo=javascript&logoColor=FFF&color=2f74c0)
 
-I have over six years of experience in application development.
+I have over seven years of experience in application development.
 
-My expertise will save you a lot of time and money 💸
-
-I am on a mission to help my clients transform their businesses by building amazing applications.
-
-I will help you transform yours;)
-
-## WHY ME?
-* ✅ You will get top results on time.
-* ✅ You will get a quote & prototype in 24h or less.
-* ✅ You will get an experienced developer that will save you time and money.
-* ✅ You will get an app written with the latest technologies.
-* ✅ You will get two weeks of FREE support.
-
-## HOW CAN YOU GET IT?
+## HOW TO CONTACT ME?
 * Book a free ☎️ @ https://calendly.com/timmousk/30min-free-consultation
 * Email me at 📧👉 info@timmousk.com
 * Visit my website for more information: https://timmousk.com
