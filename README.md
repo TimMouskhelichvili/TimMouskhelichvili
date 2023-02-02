@@ -1,6 +1,3 @@
-Senior software engineer with 7+ years of experience designing and developing innovative web applications and SaaS platforms using modern web technologies. I am a hands-on engineer who brings customer-focused software solutions from initial concept to deployment with a focus on user experience, performance, scalability, and accessibility.
-
-## WHO AM I?
 I am [Tim Mouskhelichvili](https://timmousk.com), a Developer & Consultant from Montreal, Canada 🇨🇦
 
 I specialize in React, Node.js & TypeScript application development.
