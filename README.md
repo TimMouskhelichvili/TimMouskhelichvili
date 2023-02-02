@@ -11,6 +11,6 @@ I specialize in React, Node.js & TypeScript application development.
 I have over seven years of experience in application development.
 
 ## HOW TO CONTACT ME?
-* Email me at 📧👉 info@timmousk.com
-* Visit my website for more information: https://timmousk.com
-* Porfolio: https://timmousk.com/portfolio
+* Email me at 📧👉: info@timmousk.com
+* Visit my website: https://timmousk.com
+* Check out my porfolio: https://timmousk.com/portfolio
